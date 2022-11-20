@@ -1,0 +1,1 @@
+This is a library used to check the XIPs (CAIPs, DIPs, EIPs, ..) for formal correctness.
